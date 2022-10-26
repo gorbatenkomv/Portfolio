@@ -1,4 +1,7 @@
 # Portfolio
+
+This repository contains projects from the "Data Science Specialist" training program by Yandex.Praktikum
+
 | Name              | Description                                                                                             | Stacks
 | ----------------- | ------------------------------------------------------------------------------------------------------- | ------ |
 | real_estate       | Development model for market value of real estate determination.                                        | Pandas |
