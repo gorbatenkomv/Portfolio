@@ -2,8 +2,8 @@
 
 Steps:
 
-* Prepare data;
-* Conduct exploratory data analysis;
-* Build and train the model.
+* Prepare data
+* Conduct exploratory data analysis
+* Build and train the model
   
 Stacks: Pandas, Matplotlib, NumPy, Scikit-learn </p>
