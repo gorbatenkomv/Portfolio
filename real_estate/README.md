@@ -2,9 +2,9 @@
 
 Steps:
   
-* Analyze data;
-* Prepare data;
-* Conduct exploratory data analysis.
+* Analyze data
+* Prepare data
+* Conduct exploratory data analysis
   
 Stacks: Pandas
 </p>
